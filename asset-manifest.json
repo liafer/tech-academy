@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tech-academy/static/css/main.dca67697.css",
+    "main.js": "/tech-academy/static/js/main.f6fa76fa.js",
+    "static/media/techvideo.mp4": "/tech-academy/static/media/techvideo.15429b0a094f8a872d21.mp4",
+    "static/media/metaverse.mp4": "/tech-academy/static/media/metaverse.19dae1523a85a56e0fbe.mp4",
+    "static/media/ai.png": "/tech-academy/static/media/ai.6535def00d41e95039d4.png",
+    "index.html": "/tech-academy/index.html",
+    "main.dca67697.css.map": "/tech-academy/static/css/main.dca67697.css.map",
+    "main.f6fa76fa.js.map": "/tech-academy/static/js/main.f6fa76fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dca67697.css",
+    "static/js/main.f6fa76fa.js"
+  ]
+}
