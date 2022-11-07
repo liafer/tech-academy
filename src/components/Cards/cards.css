@@ -1,0 +1,32 @@
+.cards_style {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+@media (max-width: 1110px) {
+    .cards_style {
+        gap: 40px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .cards_style {
+        gap: 20px;
+    }
+}
+
+@media (max-width: 920px) {
+    .cards_style {
+        gap: 5px;
+    }
+}
+
+@media (max-width: 830px) {
+    .cards_style {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+}

@@ -1,0 +1,48 @@
+.header {
+    background-color: black;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    color: white;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    border: none;
+}
+
+.link a:visited {
+    color: white;
+    text-decoration: none;
+    outline: none;
+}
+
+.link:hover {
+    color: white;
+}
+
+@media (max-width: 600px) {
+    .link {
+        font-size: 15px;
+    }
+
+}
+
+@media (max-width: 400px) {
+    .link {
+        font-size: 12px;
+    }
+
+}
+
+@media (max-width: 140px) {
+    .header {
+        height: 150px;
+
+    }
+
+}
